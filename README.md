@@ -21,3 +21,5 @@
 - Error message will be displayed if total course numbers/hours doesn't meet certain requirements
 
 ![image](https://user-images.githubusercontent.com/58931129/162603085-beedfc96-dffa-45a0-8c5d-8238960f66f5.png)
+
+<*CST8253 Web Programming II - lab 8*>
