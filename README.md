@@ -1,7 +1,7 @@
 # Student Course Registration
 - Web Form ASP.NET Web Application (.NET framework)
 - use [Bootstrap 4.5.2](https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) to style pages
-- Object Oriented Programming in C#:
+- Object Oriented Programming implemented in this web application:
   - **Encapsulation** - wrap a list of available courses inside the class *Helper* 
   - **Inheritance** - define base class *Student* and its derived class *FulltimeStudent*, *ParttimeStudent*, and *CoopStudent*
   - **Polymorphism** - *Student* class's method `RegisterCourse()` and `ToString()` are implemented in different ways in child classes
