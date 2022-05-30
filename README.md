@@ -4,7 +4,7 @@ The purpose of the project is to implement a web application that adds students 
 <*CST8253 Web Programming II - lab 8*>
 
 ## Built with
-- ASP.NET Web Application(.NET framework) - [Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
+- ASP.NET Web Application(.NET framework 4.7.2) - [Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
 - [Bootstrap 4.5.2](https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
 
 ## Get started
